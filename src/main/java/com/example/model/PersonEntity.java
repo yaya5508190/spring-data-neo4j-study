@@ -9,6 +9,7 @@ import org.springframework.data.neo4j.core.schema.Node;
 public class PersonEntity {
     @Id
     private final String name;
+    private final String company;
     private final Integer born;
     //Getters omitted
 }

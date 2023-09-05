@@ -1,4 +1,4 @@
-package com.example.repository;
+package com.example.repository.neo4j;
 
 import com.example.model.MovieEntity;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
